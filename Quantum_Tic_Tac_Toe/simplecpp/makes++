@@ -1,0 +1,2 @@
+#!/bin/sh -x
+g++ $@ -Wall -I/home/chanukya/GIT/11_11_Quantum_Tic_Tac_Toe/simplecpp/include -I/usr/include/X11 -L/usr/X11R6/lib -lX11 -std=c++0x

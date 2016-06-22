@@ -1,0 +1,8 @@
+1.0 May 23, 2014.
+
+1.1 Dec 19, 2014
+
+Feb 2 2015: added resetTurtle.
+
+July 25, 2015: imprintLine was writing on the display.  Made it write
+on screenBG.
